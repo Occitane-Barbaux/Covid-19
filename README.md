@@ -1,6 +1,6 @@
 Projet ENSAE 3A. Cours de Datavisualisation année 2019-2020.
 
-Résultats visible à l'adresse suivante :https://occitane-barbaux.github.io/Covid-19/
+Résultats visible à l'adresse suivante: https://occitane-barbaux.github.io/Covid-19/
 
 Projet de groupe, réalisé avec VOINEA Angela et JIANG Xue
 
